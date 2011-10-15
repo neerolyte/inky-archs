@@ -8,4 +8,4 @@ This repo holds some templates to make getting started a little bit easier.
 
 ## Example Architecture
 
-![Example](/neerolyte/inky-archs/master/example_network_diagram.svg)
+![Example](https://raw.github.com/neerolyte/inky-archs/master/example_network_diagram.svg)
