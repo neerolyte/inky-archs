@@ -5,3 +5,7 @@ For a while I have wanted a useable alternative to Visio for some Network and Ap
 Inkscape is now mature enough to manage this with nearly the efficiency of Visio in general and in some cases it seems to be much better.
 
 This repo holds some templates to make getting started a little bit easier.
+
+## Example Architecture
+
+![Example](/neerolyte/inky-archs/master/example_network_diagram.svg)
